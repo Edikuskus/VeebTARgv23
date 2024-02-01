@@ -1,5 +1,5 @@
 header{
-    color:red;
+    color:blue;
     background-color: goldenrod;
     font-family: serif, "Bauhaus 93";
     letter-spacing: 0.2cm;
@@ -41,4 +41,9 @@ main section{
     border-radius: 120px;
     padding:2%;
     width:30%;
+}
+select#teine{
+    position: absolute;
+    left: 550px;
+    top: 120px;
 }
